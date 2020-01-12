@@ -1,0 +1,2 @@
+///@description PAUSA
+gameIsPaused = false;

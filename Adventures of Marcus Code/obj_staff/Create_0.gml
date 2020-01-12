@@ -1,0 +1,2 @@
+globalvar hasVara;
+hasVara = true;
